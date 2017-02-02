@@ -1,0 +1,4 @@
+class Main {
+    blabla int a;
+    static void run(){}
+}

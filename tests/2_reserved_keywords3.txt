@@ -1,0 +1,4 @@
+class Main {
+    static int class = 50;
+    static void run(){}
+}

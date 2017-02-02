@@ -1,0 +1,10 @@
+class Main
+{
+   static int a = ;
+
+   static void run()
+   {
+      print("a");
+   }
+
+}

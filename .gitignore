@@ -11,12 +11,10 @@ error_detection_test
 backup.txt
 README.md
 test_list.txt
-test/
 logs/
 testsuites/
 .signals
 parser_backup.c
 parser_backup2.c
 /bugs_precedence
-tests/
 /parser_backup.txt

@@ -1,0 +1,6 @@
+class Main {
+    static void run(){
+        while( 5 + 6){
+        }
+    }
+}

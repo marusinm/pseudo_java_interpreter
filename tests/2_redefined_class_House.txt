@@ -1,0 +1,12 @@
+class Main{
+	static a;
+	static void run (){
+
+	}	
+}
+class House{
+	
+}
+class House{
+	
+}

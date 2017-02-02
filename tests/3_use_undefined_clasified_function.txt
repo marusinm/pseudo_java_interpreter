@@ -1,0 +1,8 @@
+class Main{
+	static void run (int b){
+		int a = House.a();
+	}	
+}
+class House{
+	static int a = 5;
+}

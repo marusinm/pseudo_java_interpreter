@@ -1,0 +1,9 @@
+class Mai@n
+{
+   //static int a = 5;
+   static void run()
+   {
+       ifj16.print("\nm");
+   }
+
+}
